@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Foodies</string>
+    <string name="title_home_page">Eat Healthy</string>
+    <string name="para_home_page">Our Daily Health Meals Plans</string>
+    <string name="diabetics_food">Diabetics Food</string>
+    <string name="fitness_food">Fitness Food</string>
+    <string name="diet_food">Diet Food</string>
+    <string name="hypertensives_food">Hypertensive Food</string>
+    <string name="search_icone">Search</string>
+    <string name="my_favourite_title">My Favourits</string>
+    <string name="my_favourite_para1">Your favourites list is empty!</string>
+    <string name="my_favourite_para2">Explore food dishes and add them to favourite to show them here</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="register">التسجيل الان</string>
+    <string name="choose_profile_img">اختر صوره للحساب</string>
+    <string name="sign_Up">التسجيل كجديد</string>
+    <string name="email">الحساب</string>
+    <string name="password">الباسورد</string>
+    <string name="phone">رقم الهاتفل</string>
+    <string name="location">الموقع</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    //diabits food
+    <string name="Beans_DI">Beans</string>
+    <string name="Beans_details_DI">Beans contain two main ingredients that make them great for diabetics: fiber and protein. The body digests fiber and protein more slowly, which reduces the risk of high blood sugar, says Dalia Gomez, a spokeswoman for the Association for Diabetes Care and Education Professionals (ADCE).
+</string>
+    <string name="dark_leafy_greens_DI">dark leafy greens</string>
+    <string name="dark_leafy_greens_details_DI">Dark leafy green vegetables like spinach and kale contain vitamin C and antioxidants that can reduce inflammation.
+
+    While most infections are short-lived, they can be chronic in people with diabetes, increasing the risk of complications, such as heart disease and kidney problems.
+
+    These vegetables are also low in calories and carbohydrates, Gomez says, making them a good choice for controlling blood sugar levels and weight.
+
+    Dark leafy green vegetables for diabetics include spinach and kale</string>
+    <string name="fatty_fish_DI">fatty fish</string>
+    <string name="fatty_fish_details_DI">Fatty fish is rich in omega-3 fatty acids, a type of unsaturated fat that can improve heart health and reduce inflammation. Fish is also a rich source of protein.
+
+    In addition to salmon, other examples of fatty fish include sardines, brine, and trout.</string>
+    <string name="fruit_DI">fruit</string>
+    <string name="fruit_details_DI"> Fruits are rich in natural sugar and carbohydrates, which is why there is a misconception that diabetics should avoid them. However, its high content of vitamins and minerals means that it is a safe choice.
+    And if you have diabetes, its important to count the carbohydrates in fruit as part of your overall meal plan.
+    Strawberries contain antioxidants called anthocyanins, which have been shown to reduce cholesterol and improve blood sugar levels. Blueberries are also less likely to cause a spike in blood sugar, thanks to their low glycemic index and high fiber content.
+    Some fruits useful for diabetics include strawberries, blueberries, bananas, oranges and grapes.</string>
+    <string name="nuts_DI">nuts</string>
+    <string name="nuts_details_DI">Gomez says nuts are a good source of healthy fats, magnesium and fiber. Some nuts and seeds, such as walnuts and flaxseeds, are also rich in omega-3 fatty acids.
+
+    Examples of nuts for diabetics include walnuts, almonds, hazelnuts, and pistachios.</string>
+    <string name="Whole_grains_DI">Whole grains</string>
+    <string name="Whole_grainsdetails_DI">Gosselin Karam says that whole grains such as whole wheat bread and brown rice are preferred over refined grains, such as white bread, because they contain more fiber.
+
+    Whole grains are also rich in B vitamins, magnesium, iron and folic acid.
+
+    A 2016 study found that a diet rich in whole grains can reduce the risk of cardiovascular disease and death from type 2 diabetes.
+
+    Examples of whole grains for diabetics include whole oats, quinoa and whole grain barley.Source: Business Insider</string>
+
+    //hypertensive food
+    <string name="Leafy_vegetables_HP">leafy vegetables</string>
+    <string name="Leafy_vegetables_Details_HP">Potassium in leafy green vegetables helps the kidneys get rid of more sodium through urination, which in turn reduces high blood pressure. The best leafy vegetables that are high in potassium are: lettuce, watercress, cabbage, kale and spinach.
+    </string>
+    <string name="Raspberry_and_strawberry_HP">strawberry</string>
+    <string name="Raspberry_and_strawberry_details_HP">Berries, especially cranberries, are rich in natural "flavonoids" compounds, and studies have found that consuming these compounds may prevent high blood pressure and help lower high blood pressure, and the same goes for strawberries.
+    </string>
+    <string name="red_beet_HP">red beet</string>
+    <string name="red_beet_details_HP">Beets are rich in nitric oxide, which helps open blood vessels and lower blood pressure. Researchers also found that nitrates in beet juice lowered patients blood pressure in just 24 hours.
+</string>
+    <string name="oats_HP">oats</string>
+    <string name="oats_details_HP">Oats are rich in fiber and low in sodium, which contributes to lowering blood pressure, and eating oats is a great way to start the day, and you can add half a cup of oats to half a cup of milk in the morning, to have a great benefit.</string>
+    <string name="banana_HP">banana</string>
+    <string name="banana_details_HP">Eating potassium-rich foods is better than taking supplements. You can eat a banana with oatmeal or whole-grain bread, and you can also eat it with a boiled egg for breakfast, to reduce high blood pressure.
+</string>
+    <string name="Seeds_HP">Seeds</string>
+    <string name="Seeds_details_HP">Unsalted seeds are rich in potassium, magnesium and other minerals that are known to lower blood pressure. Sunflower or pumpkin seeds can be eaten as a snack between meals.
+</string>
+    <string name="olive_oil_HP">olive oil</string>
+    <string name="olive_oil_deatails_HP">Olive oil is an example of healthy fats, as it contains polyphenols, which are anti-inflammatory compounds that can help reduce blood pressure, and it is a great alternative to canola oil and butter, just make sure that you buy oil that is intended for cooking, as there are types intended for salads and cold appetizers only. , and may cause damage if exposed to direct fire.
+</string>
+    <string name="pistachio_HP">pistachio</string>
+    <string name="pistachio_details_HP">Pistachios are a healthy way to lower high blood pressure and contribute to regulating the heart rate. You can add pistachios to your diet, salads, or eat them as a snack.
+</string>
+
+    //diet food
+    <string name="cottage_cheese_DT">Leafy vegetables</string>
+    <string name="cottage_cheese_details_DT">Leafy vegetables are a list that includes spinach, cabbage and watercress, and these vegetables have many possibilities and properties that make them highly suitable to be incorporated into any weight loss diet. These characteristics include that they are low in calories as well as carbohydrates and are rich in fiber. Meals, taking into account not to increase calories.</string>
+    <string name="Salmon_DT">Salmon</string>
+    <string name="Salmon_details_DT">Salmon is a low-calorie food and at the same time gives a great feeling of satiety, salmon contains healthy fats, and seafood in general provides the body with a large amount of iodine, all of which is important to maintain the bodys metabolism so that it works Ideally, resulting in healthy weight loss.</string>
+    <string name="Tuna_DT">Tuna</string>
+    <string name="Tuna_details_DT">It is one of the meals rich in nutrients and at the same time low in calories and fats as well, and it is a great meal for athletes because they get more protein while keeping calories and fats low and preferably tuna with water and filtered from oils</string>
+    <string name="boiled_potatoes_DT">boiled potatoes</string>
+    <string name="boiled_potatoes_details_DT">Potatoes have many properties that make them a great food for losing weight and getting a healthy diet. Potatoes contain a high percentage of potassium, a nutrient that most people do not get enough of and plays an important role in controlling blood pressure, especially boiled potatoes. It helps a lot to feel full.</string>
+    <string name="Beans_and_legumes_DT">Beans and legumes</string>
+    <string name="Beans_and_legumes_details_DT">Legumes are generally considered to be one of the foods that contribute to weight loss, and they are rich in protein and fiber, and both proteins and fibers help to feel full and less desire to eat. It affects the digestive system and stomach, so we advise not to eat a lot of legumes.</string>
+    <string name="soups_DT">soups</string>
+    <string name="soups_details_DT">Soup can be a delicious way to increase your intake of vegetables and whole grains you may not get enough of otherwise. However, soup varieties that are cream-based or that include processed meats aren’t going to provide the same nutritional boost.
+Between the slurping, smelling, tasting, cooling, and chewing, soup takes some people longer to eat than other foods. Eating slowly may help you eat more mindfully. It could also help keep you from eating past fullness (46Trusted Source, 47Trusted Source, 48Trusted Source).
+
+Feeling satisfied and nourishing your body while listening and responding to your body’s hunger and fullness cues are important in reaching and maintaining a healthy weight.
+
+If you would like a richer soup, there are ways to increase its creaminess without the use of heavy cream, which can add less healthy saturated fat.
+
+Try blending in avocado, which helps increase the fiber count of your soup, or cashews. You can also slice avocado on top as a garnish to the soup (49Trusted Source, 50Trusted Source).
+
+Because soups are inherently liquids, and therefore hydrate you, they may promote fullness and support weight management. Incorporating a vegetable-based clear soup before your meal can be a way to feel more satisfied and to lose weight healthfully (51Trusted Source).</string>
+    <string name="Avocados_DT">Avocados</string>
+    <string name="Avocados_details_DT">Avocados are unique fruits.
+
+While most fruits are high in carbs, avocados are instead loaded with healthy fats. They’re particularly high in monounsaturated oleic acid, the same type of fat found in olive oil.
+
+Despite being mostly fat, avocados also contain a lot of water and fiber, making them greatly satiating.
+
+What’s more, they’re a perfect addition to vegetable-based salads, as studies show that their fat content can increase how much of the carotenoid antioxidants your body absorbs from vegetables. In fact, it may increase absorption by 4.6–12.6 times (54Trusted Source).
+
+In fact, they help absorb other important fat-soluble vitamins (vitamins A, D, E, and K). Avocados also contain many important nutrients, including fiber and potassium.
+
+It’s worth keeping in mind that avocados are energy-dense, so being mindful of portions is key when weight loss is your goal. The more you practice taking your body’s internal hunger and fullness cues, the more you can intuitively tell what the right amount is for you at that time (8Trusted Source, 9Trusted Source).</string>
+    //fitness food
+    <string name="Eggs_FT"></string>
+    <string name="Eggs_details_FT">Eggs are a source of high-quality proteins that are important for building muscle. Each egg contains 6 grams of protein. The speed of absorption of proteins found in egg whites makes it the favorite meal for bodybuilders and fitness professionals. The yolk is a mine of minerals and vitamins that improve general health.</string>
+    <string name="Chicken_breast_FT">Chicken_breast</string>
+    <string name="Chicken_breast_details_FT">One of the best sources of protein that bodybuilders and fitness professionals adopt, chicken breast has a great role in building muscle, as 100 grams of it contains 30 grams of protein, which is a large amount compared to other foods, and what makes it more important is that it is low in fat and suitable in periods of drying and slimming as well. .</string>
+    <string name="fishs_FT">fishs</string>
+    <string name="fishs_details_FT">Fish is not only a rich source of proteins, but it is also an important source of omega-3, which plays a major role in muscle recovery, not only that, but increases the metabolic rate in your body, which helps you burn fat. Tuna fish is the best for bodybuilders, as 100 grams of it contains 25 grams of protein.</string>
+    <string name="Red_meat_FT">Red meat</string>
+    <string name="Red_meat_details_FT">Red meat is a staple in the diet for people who want to build muscle and enjoy their meals at the same time. 100 grams of beef contains 36 grams of protein, and red meat provides the majority of zinc for most Americans, according to the National Institutes of Health.</string>
+    <string name="Peanuts_FT">Peanuts</string>
+    <string name="Peanuts_details_FT">Peanuts are a favorite of many, as they are an important source of proteins and healthy fats, as well as vitamins and minerals essential for health such as vitamin B6, magnesium, potassium and zinc. .
+</string>
+    <string name="lentils_FT">lentils</string>
+    <string name="lentils_details_FT">100 grams of lentils provide you with 9 grams of protein, making it an excellent vegetarian source of amino acids, dietary fiber, and carbohydrates. Lentils also contain iron, which helps transport oxygen throughout the body, in addition to supporting the body in getting rid of harmful cholesterol. .</string>
+    <string name="soy_FT">soy</string>
+    <string name="soy_details_FT">100 grams of soybeans provide 39 grams of protein, which is a very large amount compared to other foods, soy builds muscle, and according to a statistical study, soy protein is just as effective as animal protein in building muscle mass and strength, unlike what is common among exercisers.
+</string>
+    <string name="Dairy_products_FT">Dairy products</string>
+    <string name="Dairy_products_Details_FT">Dairy products are a good source of high-quality proteins with a range of nutrients, the most important of which are calcium and vitamin D. Fortunately, the prices of dairy products are reasonable.
+One of the common and wrong practices towards dairy products is the acquisition of fat-free products, and the problem in this behavior is the loss of micronutrients that dissolve in fat, such as vitamin “D” and vitamin “A”, which means that the nutritional value of the product has decreased dramatically.</string>
+    <string name="Green_Beans_FT">Green Beans</string>
+    <string name="Green_Beans_details_FT">Beans are high in fiber, iron, protein, and folic acid. Patrick Holford, author of The New Optimum Nutrition Bible, recommends mixing pulses, grains, and nuts for complete protein.
+
+Bodybuilders and fitness professionals rely on beans permanently, as they provide adequate nutrients at the lowest cost and effort to prepare, a good source of vitamin C, dietary fiber, folic acid, vitamin K and silicon necessary for healthy bones, skin and hair.
+
+a summary
+All foods found in nature have health benefits, but what distinguishes the appropriate and preferred foods for bodybuilders and fitness players is their compatibility with their goals, as it helps them achieve the calories they seek, in addition to covering their needs of macronutrients such as proteins, carbohydrates and fats, in addition to the nutrients that Concern for general health of vitamins and minerals.
+
+Nutrition is a crucial element in the results that you will get in bodybuilding and fitness, and its importance exceeds the importance of exercise by 3 times, so it is important to develop a clear nutritional plan.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable-v24/ic_favorite_pressed.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable-v24/ic_healthy_logo.xml" value="0.247" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable-v24/ic_home_pressed.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable-v24/ic_profile_preesed.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/backgrond_splash.xml" value="0.247" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/btn_bg.xml" value="0.1825" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/button_style.xml" value="0.2435" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/button_style_2.xml" value="0.2435" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/card1_style.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/card2_style.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/card3_style.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/card4_style.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/card_meals_style.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/home_laout_style.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_categorie.xml" value="0.247" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_email.xml" value="0.1825" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_empty.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_facebook.xml" value="0.1" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_favorite.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_gps.xml" value="0.2435" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_gps2.xml" value="0.244" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_healthy.xml" value="0.168" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_home.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_name.xml" value="0.2435" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_person.xml" value="0.1825" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_phone.xml" value="0.2435" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_phone2.xml" value="0.244" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_profile.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/ic_security.xml" value="0.1795" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/input_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/linear_details_style_1.xml" value="0.2435" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/linear_details_style_2.xml" value="0.2435" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/drawable/main_buttons_selector.xml" value="0.246" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout-land/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout-land/fragment_profile.xml" value="0.2545138888888889" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout-port/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout-port/fragment_profile.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/categorie_content_layout.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/favouite_meals_layout.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/fragment_categorios_fragment.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/fragment_container_content.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/fragment_details.xml" value="0.2" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/fragment_favouite_meals_layout.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/fragment_get_searched_meal.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/fragment_login.xml" value="0.33" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/fragment_meals_empty_fragment.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/fragment_meals_fragment.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/fragment_non_empty_meal.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/fragment_profile.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/fragment_redister.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/fragment_register.xml" value="0.2736212056434374" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/fragment_register_page.xml" value="0.2736212056434374" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/home.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/meals_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/layout/profile.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Ali Tahoon/AndroidStudioProjects/health_advisor/app/src/main/res/menu/main_menu.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

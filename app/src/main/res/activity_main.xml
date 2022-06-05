@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/basic_color"
+    android:orientation="vertical"
+    android:id="@+id/main_activity"
+    tools:context=".MainActivity"
+    tools:ignore="MissingDefaultResource">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.1"
+        android:background="@drawable/home_laout_style"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/main_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/main_margin"
+            android:layout_marginTop="@dimen/main_margin"
+            android:paddingLeft="@dimen/main_padding"
+            android:text="@string/title_home_page"
+            android:textColor="@color/basic_color"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/para_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/main_margin"
+            android:paddingLeft="@dimen/main_padding"
+            android:text="@string/para_home_page"
+            android:textColor="@color/basic_color"
+            android:textSize="15sp" />
+
+        <FrameLayout
+            android:id="@+id/categories_fr_container"
+            android:name="com.example.aklny.categories_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="@dimen/main_margin"
+            android:paddingHorizontal="@dimen/main_padding"></FrameLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/main_footer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/basic_color"
+        android:orientation="horizontal"
+        android:padding="@dimen/main_padding">
+
+        <ImageView
+            android:id="@+id/btn_main_favorite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/ic_favorite" />
+
+        <ImageView
+            android:id="@+id/btn_main_home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/ic_home" />
+
+        <ImageView
+            android:id="@+id/btn_main_profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/ic_profile" />
+    </LinearLayout>
+
+</LinearLayout>
